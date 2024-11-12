@@ -16,7 +16,7 @@
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/divanov11/Django-Course
+   git clone https://github.com/navin-shankar-v/DevScout.git
    ```
 
 2. **Create and Activate a Virtual Environment**  
